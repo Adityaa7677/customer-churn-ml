@@ -39,3 +39,5 @@ if st.button("Predict Churn Status"):
         st.error("### Result: High Churn Risk")
     else:
         st.success("### Result: Low Churn Risk (Loyal)")
+
+print("aditya")
